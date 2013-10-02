@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10001</key>
+	<dict>
+		<key>title</key>
+		<string>错误的基地址</string>
+		<key>description</key>
+		<string>基地址调用出错（认证跟其他的地址不同）</string>
+	</dict>
+	<key>10002</key>
+	<dict>
+		<key>title</key>
+		<string>用户名密码不能为空</string>
+		<key>description</key>
+		<string>用户名密码不能为空</string>
+	</dict>
+	<key>10003</key>
+	<dict>
+		<key>title</key>
+		<string>自动获取udid失败</string>
+		<key>description</key>
+		<string>发起其他请求的时候，自动获取udid失败，请检查网络链接</string>
+	</dict>
+	<key>10004</key>
+	<dict>
+		<key>title</key>
+		<string>缺少refreshtoken</string>
+		<key>description</key>
+		<string>缺少refreshtoken</string>
+	</dict>
+	<key>10005</key>
+	<dict>
+		<key>title</key>
+		<string>没有数据</string>
+		<key>description</key>
+		<string>没有数据</string>
+	</dict>
+</dict>
+</plist>

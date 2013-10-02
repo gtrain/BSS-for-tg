@@ -1,0 +1,977 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/TMPA/!svn/ver/1382/TGYwt_IOS/TGYWT/BSS
+END
+EditText.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TMPA/!svn/ver/1303/TGYwt_IOS/TGYWT/BSS/EditText.h
+END
+Default@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/Default@2x.png
+END
+EditText.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TMPA/!svn/ver/1303/TGYwt_IOS/TGYWT/BSS/EditText.m
+END
+TermViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1221/TGYwt_IOS/TGYWT/BSS/TermViewController.xib
+END
+logout_btn_bg_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/logout_btn_bg_pressed.png
+END
+intro_view_bg002.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg002.png
+END
+button_city_selected@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_city_selected@2x.png
+END
+intro_view_bg003@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg003@2x.png
+END
+button_green.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_green.png
+END
+ActivityIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1241/TGYwt_IOS/TGYWT/BSS/ActivityIndicator.h
+END
+icon_head_portrait .png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/icon_head_portrait%20.png
+END
+ActivityIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1241/TGYwt_IOS/TGYWT/BSS/ActivityIndicator.m
+END
+pro_type_opts_tip_back.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1279/TGYwt_IOS/TGYWT/BSS/pro_type_opts_tip_back.png
+END
+yewutong_logo_login@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1203/TGYwt_IOS/TGYWT/BSS/yewutong_logo_login@2x.png
+END
+LoginViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1200/TGYwt_IOS/TGYWT/BSS/LoginViewController.xib
+END
+button_service_press.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1382/TGYwt_IOS/TGYWT/BSS/button_service_press.png
+END
+SearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1207/TGYwt_IOS/TGYWT/BSS/SearchViewController.h
+END
+ImageCropViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1354/TGYwt_IOS/TGYWT/BSS/ImageCropViewController.h
+END
+BSS-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/BSS-Prefix.pch
+END
+SearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1207/TGYwt_IOS/TGYWT/BSS/SearchViewController.m
+END
+button_login@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_login@2x.png
+END
+ImageCropViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1346/TGYwt_IOS/TGYWT/BSS/ImageCropViewController.m
+END
+button_city_unselect@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_city_unselect@2x.png
+END
+VerificationCodeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/VerificationCodeViewController.h
+END
+button_orange@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange@2x.png
+END
+checkbox_off.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1278/TGYwt_IOS/TGYWT/BSS/checkbox_off.png
+END
+PageControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1360/TGYwt_IOS/TGYWT/BSS/PageControl.h
+END
+VerificationCodeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/VerificationCodeViewController.m
+END
+PageControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1360/TGYwt_IOS/TGYWT/BSS/PageControl.m
+END
+Default-568h@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/Default-568h@2x.png
+END
+FunctionsIntroViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TMPA/!svn/ver/1323/TGYwt_IOS/TGYWT/BSS/FunctionsIntroViewController.h
+END
+intro_view_bg002@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg002@2x.png
+END
+yewutong_logo_login.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1203/TGYwt_IOS/TGYWT/BSS/yewutong_logo_login.png
+END
+FunctionsIntroViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TMPA/!svn/ver/1370/TGYwt_IOS/TGYWT/BSS/FunctionsIntroViewController.m
+END
+UserInfoUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1250/TGYwt_IOS/TGYWT/BSS/UserInfoUnit.h
+END
+MyNavigationBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1199/TGYwt_IOS/TGYWT/BSS/MyNavigationBar.h
+END
+AppInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1295/TGYwt_IOS/TGYWT/BSS/AppInfoViewController.h
+END
+button_orange_square@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_square@2x.png
+END
+button_login_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_login_pressed@2x.png
+END
+UserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/UserModel.h
+END
+UserInfoUnit.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1250/TGYwt_IOS/TGYWT/BSS/UserInfoUnit.m
+END
+MyNavigationBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1210/TGYwt_IOS/TGYWT/BSS/MyNavigationBar.m
+END
+ProjectTypeOptionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TMPA/!svn/ver/1290/TGYwt_IOS/TGYWT/BSS/ProjectTypeOptionViewController.h
+END
+AppInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1299/TGYwt_IOS/TGYWT/BSS/AppInfoViewController.m
+END
+button_orange_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_pressed@2x.png
+END
+UserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/UserModel.m
+END
+ProjectTypeOptionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TMPA/!svn/ver/1359/TGYwt_IOS/TGYWT/BSS/ProjectTypeOptionViewController.m
+END
+ActionSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1305/TGYwt_IOS/TGYWT/BSS/ActionSheet.h
+END
+MyProjectViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1199/TGYwt_IOS/TGYWT/BSS/MyProjectViewController.xib
+END
+DemoVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TMPA/!svn/ver/1325/TGYwt_IOS/TGYWT/BSS/DemoVC.xib
+END
+ActionSheet.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1381/TGYwt_IOS/TGYWT/BSS/ActionSheet.m
+END
+DemoVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TMPA/!svn/ver/1325/TGYwt_IOS/TGYWT/BSS/DemoVC.h
+END
+button_green_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_green_pressed.png
+END
+UIImage+KIAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TMPA/!svn/ver/1345/TGYwt_IOS/TGYWT/BSS/UIImage+KIAdditions.h
+END
+button_service_press@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1382/TGYwt_IOS/TGYWT/BSS/button_service_press@2x.png
+END
+button_province_unselect.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_province_unselect.png
+END
+DemoVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TMPA/!svn/ver/1325/TGYwt_IOS/TGYWT/BSS/DemoVC.m
+END
+button_orange_square_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_square_pressed@2x.png
+END
+UIImage+KIAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TMPA/!svn/ver/1364/TGYwt_IOS/TGYWT/BSS/UIImage+KIAdditions.m
+END
+intro_view_bg001@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg001@2x.png
+END
+RESTError.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/RESTError.h
+END
+ProjectModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ProjectModel.h
+END
+RESTError.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1348/TGYwt_IOS/TGYWT/BSS/RESTError.m
+END
+ProjectModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ProjectModel.m
+END
+button_orange_back@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_back@2x.png
+END
+button_orange.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange.png
+END
+button_city_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_city_selected.png
+END
+pro_type_opts_tip_back@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/pro_type_opts_tip_back@2x.png
+END
+ProjectDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ProjectDetailModel.h
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1368/TGYwt_IOS/TGYWT/BSS/AppDelegate.h
+END
+FormatChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TMPA/!svn/ver/1268/TGYwt_IOS/TGYWT/BSS/FormatChecker.h
+END
+checkbox_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TMPA/!svn/ver/1278/TGYwt_IOS/TGYWT/BSS/checkbox_on.png
+END
+ProjectDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ProjectDetailModel.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TMPA/!svn/ver/1368/TGYwt_IOS/TGYWT/BSS/AppDelegate.m
+END
+bg_title_orange.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/bg_title_orange.png
+END
+UserFeedBackViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1291/TGYwt_IOS/TGYWT/BSS/UserFeedBackViewController.h
+END
+FormatChecker.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TMPA/!svn/ver/1268/TGYwt_IOS/TGYWT/BSS/FormatChecker.m
+END
+button_orange_back_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_back_pressed@2x.png
+END
+button_orange_square.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_square.png
+END
+KICropImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1364/TGYwt_IOS/TGYWT/BSS/KICropImageView.h
+END
+UserNoInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1368/TGYwt_IOS/TGYWT/BSS/UserNoInfoViewController.h
+END
+UserFeedBackViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1339/TGYwt_IOS/TGYWT/BSS/UserFeedBackViewController.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/main.m
+END
+KICropImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1364/TGYwt_IOS/TGYWT/BSS/KICropImageView.m
+END
+cell_province_select@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1376/TGYwt_IOS/TGYWT/BSS/cell_province_select@2x.png
+END
+UserNoInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1368/TGYwt_IOS/TGYWT/BSS/UserNoInfoViewController.m
+END
+bg_title_orange@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/bg_title_orange@2x.png
+END
+button_province_selected@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_province_selected@2x.png
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/Global.h
+END
+button_login.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_login.png
+END
+ContsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ContsModel.h
+END
+Location.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TMPA/!svn/ver/1241/TGYwt_IOS/TGYWT/BSS/Location.h
+END
+intro_view_bg001.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg001.png
+END
+ContsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/ContsModel.m
+END
+ErrorsList.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/ErrorsList.plist
+END
+Location.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TMPA/!svn/ver/1332/TGYwt_IOS/TGYWT/BSS/Location.m
+END
+intro_view_bg003.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/intro_view_bg003.png
+END
+AliPayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1332/TGYwt_IOS/TGYWT/BSS/AliPayViewController.h
+END
+AliPayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1381/TGYwt_IOS/TGYWT/BSS/AliPayViewController.m
+END
+button_orange_back.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_back.png
+END
+BSS-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TMPA/!svn/ver/1371/TGYwt_IOS/TGYWT/BSS/BSS-Info.plist
+END
+button_orange_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_pressed.png
+END
+button_province_unselect@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_province_unselect@2x.png
+END
+JSONModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/JSONModel.h
+END
+ReAuthController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TMPA/!svn/ver/1378/TGYwt_IOS/TGYWT/BSS/ReAuthController.h
+END
+JSONModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1324/TGYwt_IOS/TGYWT/BSS/JSONModel.m
+END
+ReAuthController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TMPA/!svn/ver/1378/TGYwt_IOS/TGYWT/BSS/ReAuthController.m
+END
+Res_UserInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/Res_UserInfoViewController.h
+END
+ProjAreaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1320/TGYwt_IOS/TGYWT/BSS/ProjAreaViewController.h
+END
+icon_head_portrait@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/icon_head_portrait@2x.png
+END
+UserTextInfoModifyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TMPA/!svn/ver/1362/TGYwt_IOS/TGYWT/BSS/UserTextInfoModifyViewController.h
+END
+Res_UserInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/Res_UserInfoViewController.m
+END
+LoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/LoginViewController.h
+END
+ProjAreaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1381/TGYwt_IOS/TGYWT/BSS/ProjAreaViewController.m
+END
+button_orange_square_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_square_pressed.png
+END
+UserTextInfoModifyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TMPA/!svn/ver/1362/TGYwt_IOS/TGYWT/BSS/UserTextInfoModifyViewController.m
+END
+LoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TMPA/!svn/ver/1364/TGYwt_IOS/TGYWT/BSS/LoginViewController.m
+END
+DDAlertPrompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TMPA/!svn/ver/1369/TGYwt_IOS/TGYWT/BSS/DDAlertPrompt.h
+END
+button_login_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_login_pressed.png
+END
+DDAlertPrompt.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TMPA/!svn/ver/1369/TGYwt_IOS/TGYWT/BSS/DDAlertPrompt.m
+END
+false.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TMPA/!svn/ver/1216/TGYwt_IOS/TGYWT/BSS/false.png
+END
+checkbox_off@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1278/TGYwt_IOS/TGYWT/BSS/checkbox_off@2x.png
+END
+checkbox_on@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TMPA/!svn/ver/1278/TGYwt_IOS/TGYWT/BSS/checkbox_on@2x.png
+END
+cell_province_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/cell_province_selected.png
+END
+UserProfileViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1354/TGYwt_IOS/TGYWT/BSS/UserProfileViewController.h
+END
+Forget_UserInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/Forget_UserInfoViewController.h
+END
+button_green@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_green@2x.png
+END
+button_city_unselect.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_city_unselect.png
+END
+UserProfileViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1362/TGYwt_IOS/TGYWT/BSS/UserProfileViewController.m
+END
+cell_province_selected@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/cell_province_selected@2x.png
+END
+Forget_UserInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/Forget_UserInfoViewController.m
+END
+TermViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1221/TGYwt_IOS/TGYWT/BSS/TermViewController.h
+END
+Alert.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TMPA/!svn/ver/1220/TGYwt_IOS/TGYWT/BSS/Alert.h
+END
+button_orange_back_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_orange_back_pressed.png
+END
+MyProjectViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1199/TGYwt_IOS/TGYWT/BSS/MyProjectViewController.h
+END
+TermViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/TermViewController.m
+END
+true.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TMPA/!svn/ver/1216/TGYwt_IOS/TGYWT/BSS/true.png
+END
+Alert.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TMPA/!svn/ver/1220/TGYwt_IOS/TGYWT/BSS/Alert.m
+END
+MyProjectViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TMPA/!svn/ver/1199/TGYwt_IOS/TGYWT/BSS/MyProjectViewController.m
+END
+Forget_UserNoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/Forget_UserNoViewController.h
+END
+cell_province_select.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TMPA/!svn/ver/1376/TGYwt_IOS/TGYWT/BSS/cell_province_select.png
+END
+logout_btn_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/logout_btn_bg.png
+END
+Forget_UserNoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/Forget_UserNoViewController.m
+END
+RTLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TMPA/!svn/ver/1313/TGYwt_IOS/TGYWT/BSS/RTLabel.h
+END
+button_green_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/button_green_pressed@2x.png
+END
+RTLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TMPA/!svn/ver/1314/TGYwt_IOS/TGYWT/BSS/RTLabel.m
+END
+logout_btn_bg@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/logout_btn_bg@2x.png
+END
+ProjectSDKDemo.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TMPA/!svn/ver/1336/TGYwt_IOS/TGYWT/BSS/ProjectSDKDemo.xib
+END
+button_service_cancel_press.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TMPA/!svn/ver/1380/TGYwt_IOS/TGYWT/BSS/button_service_cancel_press.png
+END
+BSS.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1356/TGYwt_IOS/TGYWT/BSS/BSS.entitlements
+END
+SettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1339/TGYwt_IOS/TGYWT/BSS/SettingViewController.h
+END
+ProjectSDKDemo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1336/TGYwt_IOS/TGYWT/BSS/ProjectSDKDemo.h
+END
+logout_btn_bg_pressed@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1367/TGYwt_IOS/TGYWT/BSS/logout_btn_bg_pressed@2x.png
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TMPA/!svn/ver/1183/TGYwt_IOS/TGYWT/BSS/Default.png
+END
+SettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMPA/!svn/ver/1364/TGYwt_IOS/TGYWT/BSS/SettingViewController.m
+END
+ProjectSDKDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TMPA/!svn/ver/1336/TGYwt_IOS/TGYWT/BSS/ProjectSDKDemo.m
+END
+MainViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1199/TGYwt_IOS/TGYWT/BSS/MainViewController.h
+END
+Res_UserNoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1242/TGYwt_IOS/TGYWT/BSS/Res_UserNoViewController.h
+END
+button_service_cancel_press@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TMPA/!svn/ver/1380/TGYwt_IOS/TGYWT/BSS/button_service_cancel_press@2x.png
+END
+button_province_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TMPA/!svn/ver/1374/TGYwt_IOS/TGYWT/BSS/button_province_selected.png
+END
+MainViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TMPA/!svn/ver/1292/TGYwt_IOS/TGYWT/BSS/MainViewController.m
+END
+Res_UserNoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TMPA/!svn/ver/1306/TGYwt_IOS/TGYWT/BSS/Res_UserNoViewController.m
+END
